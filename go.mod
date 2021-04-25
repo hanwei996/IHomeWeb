@@ -1,4 +1,4 @@
-module gitee.com/hanwei66/IHomeWeb
+module github.com/hanwei996/IHomeWeb
 
 go 1.15
 
