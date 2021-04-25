@@ -1,4 +1,4 @@
-module ihomWeb
+module IHomeWeb
 
 go 1.15
 
